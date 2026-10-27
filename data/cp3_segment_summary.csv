@@ -1,0 +1,5 @@
+Segment_Order,Segment,Patrons,Avg_Borrowing_Frequency,Avg_Reading_Duration_Min,Avg_Books_Borrowed_6M,Avg_Recommendation_Score,Cold_Start_Pct,Irregular_Pct,Avg_Feedback_Score,Share_Pct
+1,Devoted Readers,2760,33.004,136.59,17.549,0.641,0.0,15.978,0.552,23.0
+2,Quick Borrowers,2665,32.909,51.034,17.855,0.575,0.0,16.961,0.553,22.208
+3,Occasional Deep Readers,3290,7.967,138.054,12.027,0.547,33.617,15.593,0.552,27.417
+4,Casual / At-Risk Patrons,3285,7.828,50.006,12.321,0.478,33.851,15.982,0.545,27.375
